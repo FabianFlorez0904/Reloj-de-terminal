@@ -1,6 +1,5 @@
-import os
+import os,time
 from datetime import datetime
-import time
 
 while True:
     hora_actual = datetime.now()
