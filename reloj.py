@@ -1,6 +1,8 @@
 import os,time
 from datetime import datetime
 
+#Este es un comentario desde Linux
+
 while True:
     hora_actual = datetime.now()
     print(
